@@ -1,4 +1,4 @@
-package io.samplespring.ppmtool;
+package io.fullstack.ppmtool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

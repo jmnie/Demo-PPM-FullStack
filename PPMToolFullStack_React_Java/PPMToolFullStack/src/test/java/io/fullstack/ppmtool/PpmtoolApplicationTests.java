@@ -1,4 +1,4 @@
-package io.samplespring.ppmtool;
+package io.fullstack.ppmtool;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
